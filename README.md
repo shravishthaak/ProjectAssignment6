@@ -10,7 +10,7 @@ The task was to predict the type of barbell lift based on data from several acce
 The corresponding R commands can be found in the RMarkdown file [`writeup.Rmd`](https://github.com/shravishthaak/ProjectAssignment6/blob/master/writeup.Rmd)
 
 
-<!DOCTYPE html>
+
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 
